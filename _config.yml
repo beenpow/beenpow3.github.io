@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: 'http://beenpow.github.io/'
-baseurl:
+baseurl: ''
 permalink: pretty
 
 # Pagination
@@ -319,7 +319,7 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: false
-  min2read: false
+  min2read: true
   separated_meta: true
 
 # Wechat Subscriber
@@ -381,7 +381,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname: https-beenpow-github-io.disqus.com
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -587,7 +587,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
