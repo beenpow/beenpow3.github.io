@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: beenpow
 subtitle:
 description:
-author: John Doe
+author: beenpow
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: 'http://beenpow.github.io/'
 baseurl:
 permalink: pretty
 
@@ -119,9 +119,10 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
+  categiroies: /navigator/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -381,7 +382,7 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: https-beenpow-github-io.disqus.com
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
@@ -462,7 +463,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-152943248-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
