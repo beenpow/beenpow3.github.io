@@ -13,8 +13,8 @@ tags:
 
 |Ch   | Description   |Done|
 |-----|---------------|----|
-|1.1| Hashing  | |
-|1.2| Linked List | |
+|1.1| Hashing  |<https://beenpow.github.io/sweab/2019/12/18/swea-B-hash-1/>|
+|1.2| Linked List |o|
 |1.3| Tree  | |
 |1.4| Memoization | |
 |1.5| Bit masking | |
