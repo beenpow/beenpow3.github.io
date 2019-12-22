@@ -1,5 +1,5 @@
 ---
-title : [sweaB] stack
+title : sweaB::stack
 
 categories:
     - sweaB

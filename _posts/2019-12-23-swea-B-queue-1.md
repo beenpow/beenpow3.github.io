@@ -1,5 +1,5 @@
 ---
-title : [sweaB] queue
+title : sweaB::queue
 
 categories:
     - sweaB
