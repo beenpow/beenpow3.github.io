@@ -44,18 +44,22 @@ tags:
 |1.10| | |
 |1.11| | |
 
+## 주어지는 자료구조
+
+<https://swexpertacademy.com/main/code/referenceCode/referenceCodeList.do?#none>
+
 # problems
 
 |Ch   | Description   |Done|
 |-----|---------------|----|
-|1.1|  | |
-|1.2|  | |
-|1.3|  | |
-|1.4|  | |
-|1.5|  | |
-|1.6|  | |
-|1.7|  | |
-|1.8|  | |
+|1.1|SWEA 블록 맞추기|<https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4szU-qXKYDFAUf&>|
+|1.2|BOJ 고스택 3425|<https://www.acmicpc.net/problem/3425>|
+|1.3|BOJ Yut Nori 15778|<https://www.acmicpc.net/problem/15778>|
+|1.4|BOJ Piet 15949  |<https://www.acmicpc.net/problem/15949>|
+|1.5|BOJ QR 2680 |<https://www.acmicpc.net/problem/2680>|
+|1.6|BOJ 그날의 너 15827  |<https://www.acmicpc.net/problem/15827>|
+|1.7|BOJ Iceberg Orders 11743|<https://www.acmicpc.net/problem/11743>|
+|1.8|BOJ 큐빙 5373|<https://www.acmicpc.net/problem/5373> |
 |1.9|  | |
 |1.10| | |
 |1.11| | |
