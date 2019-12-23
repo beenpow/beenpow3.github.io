@@ -46,7 +46,7 @@ tags:
 
 |Ch   | Description   |Done|
 |-----|---------------|----|
-|1.1| strcpy | |
+|1.1| lower_bound</br>upper_bound | |
 |1.2|  | |
 |1.3|  | |
 |1.4|  | |
