@@ -28,6 +28,20 @@ tags:
 |1.13| Set  |<https://beenpow.github.io/2019/12/22/2019-12-23-swea-B-set-1/>|
 |1.14|Vector|<https://beenpow.github.io/2019/12/22/2019-12-23-swea-B-vector-1/>|
 
+## 기법
+
+|Ch  | Description    |Done|
+|----|----------------|----|
+|1.1 | 좌표압축       |----|
+|1.2 | | |
+|1.3 | | |
+|1.4 | | |
+|1.5 | | |
+|1.6 | | |
+|1.7 | | |
+|1.8 | | |
+|1.9 | | |
+
 ## 함수 구현 (  No STL )
 
 |Ch   | Description   |Done|
