@@ -32,7 +32,7 @@ tags:
 
 |Ch  | Description    |Done|
 |----|----------------|----|
-|1.1 | 좌표압축       ||
+|1.1 | 좌표압축       |<https://beenpow.github.io/sweab/2019/12/24/swea-B-section-press/>|
 |1.2 | 차원압축 | |
 |1.3 | 랜덤 액세스 링크드 리스트 | |
 |1.4 | 이분탐색 + 휴리스틱| |
@@ -46,7 +46,7 @@ tags:
 
 |Ch   | Description   |Done|
 |-----|---------------|----|
-|1.1| lower_bound</br>upper_bound | |
+|1.1| lower_bound</br>upper_bound |<https://beenpow.github.io/sweab/2019/12/24/swea-B-lowerbound/> |
 |1.2|  | |
 |1.3|  | |
 |1.4|  | |
