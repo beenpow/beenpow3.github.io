@@ -41,6 +41,13 @@ int my_lower_bound(int * arr, int n, int key){
     }
     return e + 1;
 }
+// my_lower_bound의 사용
+int get_idx(int x) {
+    // int it = lower_bound(ss, ss + MAX, x) -ss; // 일반 lower_bound
+    int it = my_lower_bound(ss, MAX, x) -1;
+    if (it == MAX || ss[it] != x)return -1;
+    return it;
+}
 
 int main(){
     // 배열 사용하는 경우
