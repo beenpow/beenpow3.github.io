@@ -347,7 +347,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image: /img/profile.png
+  image: #/img/profile.png
 
 
 # Code Highlight theme
