@@ -56,3 +56,43 @@ int getidx(int x){
     return lower_bound(idx.begin(), idx.end(), x) - idx.begin();
 }
 ```
+
+# 좌표압축 2
+
+- BOJ<등고선 지도>문제를 풀던 중 좌표 압축의 활용법이 나와 내용을 추가합니다.
+- 기존 방식처럼 lower_bound를 사용하는 것 같지만, lower_bound 의 결과로 나온 상대적인 index 값으로
+  원래의 값을 바꿔버립니다.
+  - 먼저 x좌표는 모두 vector<int> x에 push 합니다.
+  - y 좌표는 모두 vector<int> y에 push 합니다.
+  - 이후 원래의 값이 들어있던 위치인 grp[i][j]에
+    - lower_bound한 결과인 상대적 인덱스 값을 대입합니다.
+
+
+```cpp
+vector<int> x;
+vector<int> y;
+vector<pair<int,int> > grp[20000];
+
+cin >> n;
+        for(int i = 0; i < n; ++i){
+            cin >> sz;
+            for(int j = 0; j < sz; j++){
+                int a,b;
+                cin >> a >> b;
+                grp[i].push_back({a, b});
+            }
+        }
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < grp[i].size(); j++){
+                x.push_back(grp[i][j].first);
+                y.push_back(grp[i][j].second);
+            }
+        }
+        sort(x.begin(), x.end());
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < grp[i].size(); j++){
+                grp[i][j].first  = (int)(lower_bound(x.begin(), x.end(), grp[i][j].first)  - x.begin());
+                grp[i][j].second = (int)(lower_bound(y.begin(), y.end(), grp[i][j].second) - y.begin());
+            }
+        }
+```
