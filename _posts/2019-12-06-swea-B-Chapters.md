@@ -67,7 +67,7 @@ tags:
 |Ch   | Description   |Done|
 |-----|---------------|----|
 |1.1|SWEA 블록 맞추기|<https://beenpow.github.io/sweab/2019/12/23/swea-B-1770/>|
-|1.2|BOJ 고스택 3425|<https://www.acmicpc.net/problem/3425>|
+|1.2|BOJ 고스택 3425|<https://beenpow.github.io/sweab/boj/2020/01/07/BOJ-3425/>||
 |1.3|BOJ Yut Nori 15778|<https://www.acmicpc.net/problem/15778>|
 |1.4|BOJ Piet 15949  |<https://www.acmicpc.net/problem/15949>|
 |1.5|BOJ QR 2680 |<https://www.acmicpc.net/problem/2680>|
