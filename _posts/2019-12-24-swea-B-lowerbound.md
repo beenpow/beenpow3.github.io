@@ -41,6 +41,18 @@ int my_lower_bound(int * arr, int n, int key){
     }
     return e + 1;
 }
+int my_lower_bound2(int A[], int n, int val){
+    int begin = 0, end = n;
+    int mid = begin;
+    while(begin <= end){
+        mid = (begin + end)/ 2;
+        if(A[mid] < val)
+            begin = mid+1;
+        else
+            end = mid-1;
+    }
+    return end+1;
+}
 // my_lower_bound의 사용
 int get_idx(int x) {
     // int it = lower_bound(ss, ss + MAX, x) -ss; // 일반 lower_bound
