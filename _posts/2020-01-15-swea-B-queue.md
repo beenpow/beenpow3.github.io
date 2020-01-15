@@ -8,8 +8,10 @@ tag:
     - sweaB
     - swea
 ---
+
 # Queue 정의
 - 박트리님의 블로그를 참고하였습니다.
+
 
 ```cpp
 #include <bits/stdc++.h>
@@ -60,4 +62,4 @@ public:
 		return _size;
 	}
 };
-``
+```
