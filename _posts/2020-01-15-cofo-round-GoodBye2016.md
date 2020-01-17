@@ -9,7 +9,7 @@ tag:
     - COFO
 ---
 # COFO::Round Good Bye 2016
-[COFO]:<https://codeforces.com/contest/750>
+[COFO] : <https://codeforces.com/contest/750>
 
 ## Problem A : New Year and Hurry
 
