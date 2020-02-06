@@ -11,7 +11,7 @@ tags:
 
 |Year|Month|log|
 |---|---|---|
-|2020|Feb|   |
+|2020|Feb|<https://beenpow.github.io/swim/2020/02/05/swim-daily-Feb/>|
 |   |   |   |
 |   |   |   |
 |   |   |   |
