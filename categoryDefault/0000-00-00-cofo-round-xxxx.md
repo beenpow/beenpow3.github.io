@@ -9,29 +9,35 @@ tag:
     - COFO
 ---
 # COFO::Round #xxx
-[COFO] : <x>
+- [Link : COFO::] (x)
 
 ## Problem A
 
-- 난이도 : 
-- 문제 분류 :
+- level :
+- tag
 
-### 시사점
+### Point
 
-### 키
+### Key
 
-### 이해(x)
+### Understanding(x)
 
-### 설계(x)
+### Design(x)
 
-#### 시간 복잡도
+#### Big O(time)
 
-#### 공간 복잡도
+#### Big O(memory)
 
-### 구현(x)
+### Review, after coding in manual way
 
-### 디버깅(x)
+### Code(x)
 
-### 좋은 코드
+#### functions
 
-### 최적화
+#### updated values
+
+### Debugging(x)
+
+### Good code
+
+### Optimization
