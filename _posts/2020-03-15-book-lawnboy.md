@@ -1,5 +1,5 @@
 ---
-title : BOOKS :: LAWN BOY
+title : BOOKS::LAWN BOY
 
 categories:
     - book
