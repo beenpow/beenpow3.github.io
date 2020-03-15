@@ -14,21 +14,21 @@ tag:
 - 이 책, 저 책 훑어 보던 중, 원문이지만 짧고, 경제 관련 책이라서 구입하였습니다.
 
 # 목차
-- 1. The principles of Economic Expansion
-- 2. The growth of capitalism
-- 3. The law of increasing product demand versus flat production capacity
-- 4. Capital growth coupled with the principles of production expansion
-- 5. Labor acquisition and its effect on capital growth
-- 6. Economic expansion combined with porfolio diversification
-- 7. Overutilization of labor compunded by unpredicted capital growth
-- 8. Dramatic economic expansion:its causes and effects
-- 9. Conflict resolution and its effects on economic policy
-- 10. Force of arms and its application to business
-- 11. Business and the Art of Creative Misrepresentation
-- 12. Team management in times of uncertainty
-- 13. Expertise, its utilization and eefects on economy
-- 14. Resource utilization: its causes and effects
-- 15. Serendipitous activity and its effects on capital quantity
+1. The principles of Economic Expansion
+2. The growth of capitalism
+3. The law of increasing product demand versus flat production capacity
+4. Capital growth coupled with the principles of production expansion
+5. Labor acquisition and its effect on capital growth
+6. Economic expansion combined with porfolio diversification
+7. Overutilization of labor compunded by unpredicted capital growth
+8. Dramatic economic expansion:its causes and effects
+9. Conflict resolution and its effects on economic policy
+10. Force of arms and its application to business
+11. Business and the Art of Creative Misrepresentation
+12. Team management in times of uncertainty
+13. Expertise, its utilization and eefects on economy
+14. Resource utilization: its causes and effects
+15. Serendipitous activity and its effects on capital quantity
 
 ## chapter 1
 
