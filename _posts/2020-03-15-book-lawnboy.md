@@ -11,7 +11,7 @@ tag:
 - [Link : LAWNBOY](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=203427216&gclid=EAIaIQobChMI6dP8nfib6AIViraWCh16Ug7SEAYYASABEgKs_vD_BwE)
 - 제목 : LAWN BOY
 - 작가 : Gary PAULSEN
-- 노원역점에 있는 알라딘 중고서적 서점에서 산 책입니다.
+- 가로수길에 있는 알라딘 중고서적 서점에서 산 책입니다.
 - 이 책, 저 책 훑어 보던 중, 원문이지만 짧고, 경제 관련 책이라서 구입하였습니다.
 
 # 목차
