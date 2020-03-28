@@ -18,26 +18,11 @@ tag:
 
 ### Point
 
-### Key
-
-### Understanding(x)
-
 ### Design(x)
 
 #### Big O(time)
 
 #### Big O(memory)
 
-### Review, after coding in manual way
-
 ### Code(x)
 
-#### functions
-
-#### updated values
-
-### Debugging(x)
-
-### Good code
-
-### Optimization
