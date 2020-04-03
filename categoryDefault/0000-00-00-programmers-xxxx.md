@@ -1,16 +1,14 @@
 ---
-title : BOJ::10321 문자열 잘라내기
+title : Programmers::문자열 잘라내기
 
 categories:
-    - BOJ
-    - 백준
+    - programmers
 tag:
-    - BOJ
-    - 백준
+    - programmers
 ---
-# BOJ::10321 문자열찾기
-- [Link : BOJ::10321](x)
-- Level : Silver1
+# programmers::문자열찾기
+- [Link : Programmers::문자열찾기](x)
+- Level : 
 
 # 시사점
 
