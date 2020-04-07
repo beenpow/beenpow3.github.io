@@ -9,7 +9,7 @@ tag:
     - COFO
 ---
 # COFO::Round #xxx
-- [Link : COFO::] (x)
+- [Link : COFO::](x)
 
 ## Problem A
 
