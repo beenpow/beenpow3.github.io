@@ -1,5 +1,5 @@
 ---
-title : COFO EDU::Round #84
+title : COFO EDU::Round 84
 
 categories:
     - sweaB

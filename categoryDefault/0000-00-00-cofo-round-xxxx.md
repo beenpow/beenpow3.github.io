@@ -1,5 +1,5 @@
 ---
-title : COFO::Round #xxx
+title : COFO::Round xxx
 
 categories:
     - sweaB
