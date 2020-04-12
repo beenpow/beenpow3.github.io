@@ -14,7 +14,8 @@ tag:
 ## Problem A
 
 - level :
-- tag
+- tag :
+- time :
 
 ### Point
 
