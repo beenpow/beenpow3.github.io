@@ -10,6 +10,10 @@ tag:
 ---
 # COFO::Round #xxx
 - [Link : COFO::](x)
+- solved : 
+  - A :  ( 3m )
+  - B :  ( 10m )
+- rank : 
 
 ## Problem A
 
