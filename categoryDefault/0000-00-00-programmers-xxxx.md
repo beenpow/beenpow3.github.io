@@ -1,5 +1,5 @@
 ---
-title : programmers:: xxx
+title : programmers::xxx
 
 categories:
     - programmers
