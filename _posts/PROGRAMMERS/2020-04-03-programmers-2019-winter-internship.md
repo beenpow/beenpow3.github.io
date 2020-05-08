@@ -11,6 +11,68 @@ tag:
 - 1, 2 번도 제출하였지만, 대회끝나고 나니 코드가 따로 저장되어 있지 않네요.
 - 따라서, 재밌는 문제인 4, 5 번에 대해서만 포스트하려고 합니다.
 
+# programmers::불량사용자
+
+## 시사점
+- 대부분의 사람들이 backtrack으로 푼 것 같습니다.
+- 저는 next_permutation과 hash로 풀이하였기에 참고용으로 업로드 합니다.
+
+## 이해
+- user_id 와 banned_id가 있습니다.
+- banned_id 로 추측되는 조합의 갯수를 출력합니다.
+
+## 설계
+- user_id 가 최대 8개인 점을 이용합니다.
+- next_permutation으로 해도 충분한 복잡도입니다.
+- 단, 중복이 없어야 하므로 bitmask를 이용하여 hashing하여 사용하였습니다.
+
+## 구현
+
+```cpp
+#include<vector>
+#include<map>
+#include<algorithm>
+#define endl '\n'
+#define pb push_back
+#define rep(i,a,b) for(int i=a;i<b;i++)
+#define r_rep(i,a,b) for(int i=a;i>b;i--)
+typedef long long ll;
+using namespace std;
+
+map<int,int> mp;
+bool able(string user, string banned){
+    if(user.size() != banned.size()) return false;
+    rep(i, 0, banned.size()){
+        if(banned[i] == '*') continue;
+        if(user[i] != banned[i]) return false;
+    }
+    return true;
+}
+
+int solution(vector<string> user_id, vector<string> banned_id) {
+    int answer = 0;
+    vector<int> combi;
+    rep(i, 0, user_id.size()) combi.pb(i);
+
+    do {
+        int cmp = 0;
+        bool impossible = false;
+        rep(i, 0, banned_id.size()){
+            cmp |= (1 << combi[i]);
+            if(!able(user_id[combi[i]], banned_id[i])){
+                impossible = true;
+                break;
+            }
+        }
+        if(!impossible && mp.count(cmp) == 0){
+            answer++;
+            mp[cmp]++;
+        }
+    } while (next_permutation(combi.begin(), combi.end()));
+    return answer;
+}
+```
+
 # programmers::호텔방배정
 - [Link : Programmers::호텔방배정](https://programmers.co.kr/learn/courses/30/lessons/64063)
 - Level : 
