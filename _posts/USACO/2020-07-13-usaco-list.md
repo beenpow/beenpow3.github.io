@@ -2,11 +2,10 @@
 title : USACO silver Progress
 
 categories:
-    - sweaB
-    - COFO
+    - USACO
 tag:
-    - sweaB
-    - COFO
+    - USACO
+
 ---
 # USACO silver Progress
 - [Link : USACO on BOJ](https://www.acmicpc.net/category/106)
