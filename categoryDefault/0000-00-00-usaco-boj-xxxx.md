@@ -1,5 +1,5 @@
 ---
-title : USACO SILVER::20xx summer : name
+title : USACO SILVER::20xx summer name
 
 categories:
     - USACO
