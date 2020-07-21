@@ -18,8 +18,12 @@ tag:
 |2020 |February |Silver |1 | Swapity Swapity Swap|[Link](https://beenpow.github.io/usaco/2020/07/14/usaco-boj-18783/) |
 |2020 |February |Silver |2 | Triangles(silver)|[Link](https://beenpow.github.io/usaco/2020/07/14/usaco-boj-18784/) |
 |2020 |February |Silver |3 | Clock Tree|[Link](https://beenpow.github.io/usaco/2020/07/14/usaco-boj-18785/) |
-| | | | | | |
-| | | | | | |
+|2020 |January  |Silver |1 | Berry Picking|[Link](https://beenpow.github.io/usaco/2020/07/20/usaco-boj-18319/) |
+|2020 |January  |Silver |2 | Loan Repayment|[Link](https://beenpow.github.io/usaco/2020/07/20/usaco-boj-18320/) |
+|2020 |January  |Silver |3 | Wormhole Sort|[Link](https://beenpow.github.io/usaco/2020/07/20/usaco-boj-18321/) |
+|2020 |US Open  |Silver |1 | Social Distancing |[Link](https://beenpow.github.io/usaco/2020/07/21/usaco-boj-18877/) |
+|2020 |US Open  |Silver |2 | Cereal|[Link](https://beenpow.github.io/usaco/2020/07/21/usaco-boj-18878/) |
+|2020 |US Open  |Silver |3 | Moo Particles|[Link](https://beenpow.github.io/usaco/2020/07/21/usaco-boj-18879/) |
 | | | | | | |
 | | | | | | |
 | | | | | | |
