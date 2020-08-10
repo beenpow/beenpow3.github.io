@@ -2,10 +2,8 @@
 title : COFO::Round xxx
 
 categories:
-    - sweaB
     - COFO
 tag:
-    - sweaB
     - COFO
 ---
 # COFO::Round #xxx
@@ -24,11 +22,11 @@ tag:
 
 ### Point
 
-### Design(x)
+### Design
 
 #### Big O(time)
 
 #### Big O(memory)
 
-### Code(x)
+### Code
 
