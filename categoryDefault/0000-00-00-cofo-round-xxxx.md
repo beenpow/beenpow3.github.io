@@ -3,8 +3,10 @@ title : COFO::Round xxx
 
 categories:
     - COFO
+    - 코드포스
 tag:
     - COFO
+    - 코드포스
 ---
 # COFO::Round #xxx
 - [Link : COFO::](x)
