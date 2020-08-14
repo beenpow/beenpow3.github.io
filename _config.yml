@@ -8,8 +8,8 @@ title: beenpow
 subtitle: 
 description: Feel free to contact me if you have any doubt or question 
 author: 
-  name : beenpow@gmail.com
-  avatar : /img/bkain.png
+  name : "beenpow@gmail.com"
+  avatar : "/img/bkain.png"
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
