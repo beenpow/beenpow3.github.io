@@ -10,6 +10,7 @@ tag:
 # USACO SILVER::20xx summer : name
 - [Link : USACO BOJ::](x)
 - [Link : USACO contest::](x)
+- 유사코 실버
 
 # name
 
