@@ -7,9 +7,7 @@
 title: beenpow
 subtitle: 
 description: Feel free to contact me if you have any doubt or question 
-author: 
-  name : "beenpow@gmail.com"
-  avatar : "/img/bkain.png"
+author: "beenpow@gmail.com"
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -237,7 +235,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: #/assets/images/avatar.gif
-#avatar:
+avatar: /img/bkain.png
 
 
 # Table Of Contents in the Sidebar
