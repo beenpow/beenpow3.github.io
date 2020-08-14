@@ -1,5 +1,5 @@
 ---
-title : USACO SILVER::20xx summer name
+title : USACO SILVER::20xx summer - name
 
 categories:
     - USACO
@@ -7,7 +7,7 @@ categories:
 tag:
     - USACO
 ---
-# USACO SILVER::20xx summer : name
+# USACO SILVER::20xx summer - name
 - [Link : USACO BOJ::](x)
 - [Link : USACO contest::](x)
 - 유사코 실버
