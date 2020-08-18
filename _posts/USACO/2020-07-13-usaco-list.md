@@ -15,9 +15,9 @@ tag:
 |2018 |December |Silver |1 |Convention |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-16766/) |
 |2018 |December |Silver |2 |Convention 2 |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-16767/) |
 |2018 |December |Silver |3 |Mooyo Mooyo |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-16768/) |
-|2019 |February |Silver |1 |Sleepy Cow Herding(silver) | |
-|2019 |February |Silver |2 |Painting the Barn(silver) | |
-|2019 |February |Silver |3 |The Great Revegetation(silver) | |
+|2019 |February |Silver |1 |Sleepy Cow Herding(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17036/) |
+|2019 |February |Silver |2 |Painting the Barn(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17037/) |
+|2019 |February |Silver |3 |The Great Revegetation(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17038/) |
 |2019 |January  |Silver |1 | | |
 |2019 |January  |Silver |2 | | |
 |2019 |January  |Silver |3 | | |
