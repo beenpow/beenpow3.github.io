@@ -18,9 +18,9 @@ tag:
 |2019 |February |Silver |1 |Sleepy Cow Herding(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17036/) |
 |2019 |February |Silver |2 |Painting the Barn(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17037/) |
 |2019 |February |Silver |3 |The Great Revegetation(silver) |[Link](https://beenpow.github.io/usaco/2020/08/14/usaco-boj-17038/) |
-|2019 |January  |Silver |1 | | |
-|2019 |January  |Silver |2 | | |
-|2019 |January  |Silver |3 | | |
+|2019 |January  |Silver |1 |Grass Planting |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17024/) |
+|2019 |January  |Silver |2 |Icy Perimeter |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17025/) |
+|2019 |January  |Silver |3 |Mountain View |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17026/) |
 |2019 |US Open  |Silver |1 | | |
 |2019 |US Open  |Silver |2 | | |
 |2019 |US Open  |Silver |3 | | |
