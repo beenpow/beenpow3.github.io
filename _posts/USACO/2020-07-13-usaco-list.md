@@ -21,9 +21,9 @@ tag:
 |2019 |January  |Silver |1 |Grass Planting |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17024/) |
 |2019 |January  |Silver |2 |Icy Perimeter |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17025/) |
 |2019 |January  |Silver |3 |Mountain View |[Link](https://beenpow.github.io/usaco/2020/08/20/usaco-boj-17026/) |
-|2019 |US Open  |Silver |1 | | |
-|2019 |US Open  |Silver |2 | | |
-|2019 |US Open  |Silver |3 | | |
+|2019 |US Open  |Silver |1 |Left Out | |
+|2019 |US Open  |Silver |2 |Cow Steeplechase 2 | |
+|2019 |US Open  |Silver |3 |Fence Planning | |
 |2019 |December |Silver |1 | MooBuzz |[Link](https://beenpow.github.io/usaco/2020/07/13/usaco-boj-18265/) |
 |2019 |December |Silver |2 | Meetings|[Link](https://beenpow.github.io/usaco/2020/07/13/usaco-boj-18266/) |
 |2019 |December |Silver |3 | Milk Visits|[Link](https://beenpow.github.io/usaco/2020/07/13/usaco-boj-18267/) |
