@@ -1,5 +1,5 @@
 ---
-title : COFO::Educational Round xxx
+title : COFO::Educational Round 94 ( div 2 )
 
 categories:
     - COFO
@@ -8,12 +8,12 @@ tag:
     - COFO
     - 코드포스
 ---
-# COFO::Educational Round #xxx
-- [Link : COFO::](x)
+# COFO::Educational Round 94 ( div 2 )
+- [Link : COFO::educational round 94](https://codeforces.com/contest/1400)
 - solved : 
   - A :  ( 00:11 )
-  - rank : 
-  - score :
+  - rank : 7764
+  - score : 1 solved
 
 ## Problem A : String Similarity
 
