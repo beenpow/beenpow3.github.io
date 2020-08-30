@@ -1,5 +1,5 @@
 ---
-title : BOOKS :: 오늘을 읽는 맹자
+title : BOOKS::오늘을 읽는 맹자
 
 categories:
     - book
