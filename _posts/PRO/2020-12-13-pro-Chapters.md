@@ -35,9 +35,9 @@ tags:
 |1.1 | LCS | |
 |1.2 | KMP | |
 |1.3 | Rabin-Karp ( +Rolling hash ) | |
-|1.4 | | |
-|1.5 | | |
-|1.6 | | |
+|1.4 | Convex Hull | |
+|1.5 | Closest Pair| |
+|1.6 | topological sort| |
 |1.7 | | |
 |1.8 | | |
 |1.9 | | |
