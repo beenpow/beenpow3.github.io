@@ -1,5 +1,5 @@
 ---
-title : sweaB::LinkedList
+title : Pro::LinkedList
 
 categories:
     - sweaB

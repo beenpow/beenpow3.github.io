@@ -1,5 +1,5 @@
 ---
-title : sweaB::section press
+title : Pro::section press
 
 categories:
     - sweaB

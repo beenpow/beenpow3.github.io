@@ -1,5 +1,5 @@
 ---
-title : sweaB::lower bound
+title : Pro::lower bound
 
 categories:
     - sweaB
