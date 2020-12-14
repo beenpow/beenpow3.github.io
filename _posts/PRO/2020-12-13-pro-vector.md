@@ -1,5 +1,5 @@
 ---
-title : sweaB::vector
+title : Pro::vector
 
 categories:
     - sweaB

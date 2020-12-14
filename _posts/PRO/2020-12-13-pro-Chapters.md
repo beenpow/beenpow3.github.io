@@ -32,7 +32,7 @@ tags:
 
 |Ch  | Description    |Done|
 |----|----------------|----|
-|1.1 | LCS | |
+|1.1 | LCS |<https://beenpow.github.io/pro/2020/12/14/pro-LCS/> |
 |1.2 | KMP | |
 |1.3 | Rabin-Karp ( +Rolling hash ) | |
 |1.4 | Convex Hull | |
