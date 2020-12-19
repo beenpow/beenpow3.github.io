@@ -35,7 +35,7 @@ tags:
 |1.1 | LCS |<https://beenpow.github.io/pro/2020/12/14/pro-LCS/> |
 |1.2 | KMP |<https://beenpow.github.io/professional/2020/12/14/pro-KMP/> |
 |1.3 | Rabin-Karp ( +Rolling hash ) | |
-|1.4 | Convex Hull | |
+|1.4 | Convex Hull |<https://beenpow.github.io/professional/2020/12/19/pro-convexHull/> |
 |1.5 | Closest Pair| |
 |1.6 | topological sort| |
 |1.7 | | |
