@@ -73,6 +73,7 @@ public:
 	T operator [](int idx)const{
 		return arr[idx];
 	}
+  T& operator[](int idx) const{return arr[idx];}
 };
 
 ```
