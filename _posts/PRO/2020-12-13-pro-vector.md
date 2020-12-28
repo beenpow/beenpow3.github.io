@@ -79,10 +79,9 @@ public:
 ```
 
 
+- 추가로 vector의 split함수도 있습니다.
 ```cpp
-추가로 vector의 split함수도 있습니다.
-
 vector<int> split(const vector<int>& v, int a, int b){
     return vector<int>(v.begin() + a, v.begin() + b);
 }
-``
+```
