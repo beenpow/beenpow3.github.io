@@ -20,7 +20,7 @@ tags:
 |1.5| Bit masking | |
 |1.6| Binary search | |
 |1.7| devide and conquer | |
-|1.8| Sort |<https://beenpow.github.io/sweab/2020/12/13/pro-sort/>|
+|1.8| (q, merge)Sort |<https://beenpow.github.io/sweab/2020/12/13/pro-sort/>|
 |1.9| Heap | |
 |1.10| (priority) Queue|<https://beenpow.github.io/sweab/swea/2020/12/13/pro-queue/> |
 |1.11| Stack|<https://beenpow.github.io/sweab/swea/2020/12/13/pro-stack/> |
