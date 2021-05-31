@@ -20,7 +20,6 @@ tag:
 
 - level :
 - tag :
-- time :
 
 ### Point
 
@@ -31,4 +30,9 @@ tag:
 #### Big O(memory)
 
 ### Code
+
+```cpp
+
+```
+
 
