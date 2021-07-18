@@ -348,7 +348,8 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: /img/amazon.png
+  image: /img/elon.jpeg
+  #image: /img/amazon.png
   #image: /img/bkain.png
 
 
